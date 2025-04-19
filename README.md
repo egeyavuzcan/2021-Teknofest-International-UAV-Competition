@@ -121,11 +121,3 @@ python -m missions.red_detect_mission --conn 127.0.0.1:14551 --field 150 --alt 1
 - Add missions under `missions/` by subclassing `FlightMission`.
 - Ensure CLI entry points and docstrings are updated.
 
-## Contributing
-Contributions are welcome! Please:
-1. Fork repository
-2. Create feature branch
-3. Submit pull request
-
-## License
-This project is released under the MIT License. See `LICENSE` for details.
