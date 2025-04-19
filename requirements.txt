@@ -1,0 +1,7 @@
+# Requirements for 2021-Teknofest-International-UAV-Competition
+numpy>=1.19.0
+opencv-python>=4.5.0
+dronekit>=2.0.0
+pymavlink>=2.4.0
+# Optional (Raspberry Pi pump control)
+RPi.GPIO>=0.7.0
